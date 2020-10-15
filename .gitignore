@@ -15,3 +15,7 @@ AppVariantPreviewPayload.zip
 mergedManifestDescriptor.json
 APIExternalProducer.js
 .*/APIExternalProducer.js
+src/
+node_modules/
+dist/
+.scp/
